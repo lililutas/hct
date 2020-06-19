@@ -1,0 +1,25 @@
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.csprojAssemblyReference.cache
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.Form1.resources
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.imageform.resources
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.Properties.Resources.resources
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.csproj.GenerateResource.cache
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\bin\Debug\fulllab.exe.config
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\bin\Debug\fulllab.exe
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\bin\Debug\fulllab.pdb
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.exe
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.pdb
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.csproj.CoreCompileInputs.cache
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.mydialog.resources
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.csprojAssemblyReference.cache
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.Form1.resources
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.imageform.resources
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.mydialog.resources
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.mydialogs.resources
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.Properties.Resources.resources
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.csproj.GenerateResource.cache
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.csproj.CoreCompileInputs.cache
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.exe
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\obj\Debug\fulllab.pdb
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\bin\Debug\fulllab.exe.config
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\bin\Debug\fulllab.exe
+C:\Users\pozit\OneDrive\Рабочий стол\Only For Me\C#\fulllab\fulllab\bin\Debug\fulllab.pdb

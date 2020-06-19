@@ -1,0 +1,11 @@
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\bin\Release\fulllab.exe.config
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\bin\Release\fulllab.exe
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\bin\Release\fulllab.pdb
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Release\fulllab.csprojAssemblyReference.cache
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Release\fulllab.Form1.resources
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Release\fulllab.imageform.resources
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Release\fulllab.Properties.Resources.resources
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Release\fulllab.csproj.GenerateResource.cache
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Release\fulllab.csproj.CoreCompileInputs.cache
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Release\fulllab.exe
+C:\Users\pozit\Desktop\Only For Me\C#\fulllab\fulllab\obj\Release\fulllab.pdb
